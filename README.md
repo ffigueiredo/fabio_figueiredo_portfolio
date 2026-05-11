@@ -1,9 +1,13 @@
-# Fábio Figueiredo
-### Hi there, I'm Fábio.
+# DATA Portfolio
+### Hi there, I'm Fábio a data analyst focused on analysis (well of course), operational workflows and pratical reporting
+<br>Based in Cascais, Portugal, I'm building a portfolio for remote data analyst / business intelligence roles with particular interest in Denmark and the Nordics
 <br>
-Apparently I've been doing data work for 7+ year disguised as municipal urban planning protection and legality, no degree, no specialised software aside from SQL, and no direction just stuff that needed to be done so we can work.
+<br>I've spent 7+ years doing analytical and operational work in a municipal context - identifying process bottlenecks, working with structured and unstructured information, and helping turn day to day work into measurable and easier to manage
 <br>
-<br>Based in Cascais, Portugal, I'm looking for remote roles in data analysis and handling.
+<br>No degree. Skills-first background. Toolkit include SQL, Excel, Python and process documentation  methods, with current work expanding further into analytics and reporting
 <br>
-<br>This repo is a mix of work that is live and being used right now (anonymized because its real people with real issues, we need to respect that), projects that did not really take off and work I've done for my hobbies (gaming and social media, mostly gaming)
+<br>This repo is a mix of work:
+- Real-world work adapted and anonymized where necessary 
+- In-progress analysis projects
+- Personal data projects tied to gaming and digital content
 <br>
