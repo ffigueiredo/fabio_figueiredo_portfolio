@@ -12,3 +12,5 @@
 - In-progress analysis projects
 - Personal data projects tied to gaming and digital content
 <br>
+<br> You can contact me via - [my email](fabio.fer.fig@gmail.com) | [my x account](https://x.com/gilgameshishere)
+### Repository updates
