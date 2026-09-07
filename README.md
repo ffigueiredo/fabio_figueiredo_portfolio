@@ -17,6 +17,7 @@ I work mainly with SQL, Excel, Python, Power BI, and documentation-driven analys
 ---
 
 This repo is a mix of:
+
 - Real-world work adapted and anonymized where necessary
 - In-progress analysis projects
 - Personal data projects tied to gaming and digital content
@@ -24,6 +25,13 @@ This repo is a mix of:
 ---
 
 ## Featured Projects
+
+### [Legacy Database Schema Redesign](./legacyDatabaseFailure)
+
+* **Stack:** ER Diagraming, Process Mapping, legacy Access/sql Analysis.
+* **Summary:** Responded to a critical 64-bit architecture failure that rendered an undocumented MS Access database unusable. Reverse-engineered the business logic under operational pressure to deliver current/future-state data models and workflow maps that bridged the gap between Ops and IT.
+
+###
 
 ## Repository updates
 
