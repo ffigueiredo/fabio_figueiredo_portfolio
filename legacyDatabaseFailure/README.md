@@ -75,22 +75,6 @@ This project is a good example of analytical support work that sits upstream of 
 
 The value here was not in producing a dataset or statistical output. The value was in making an undocumented operational system understandable under pressure, translating business logic into structured artifacts, and creating materials that supported both continuity and future redesign.
 
-## Repository structure
-
-legacy-database-failure-response/
-├── README.md
-├── workflow-mapping/
-│
-├── README.md
-│   ├── product-type-a/
-│   └── product-type-b/
-├── database-model/
-│   ├── README.md
-│   ├── current-state/
-│   └── proposed-state/
-└── docs/
-└── notes.md
-
 ## Limitations
 
 - Source files may be simplified, anonymized, or recreated for confidentiality reasons
