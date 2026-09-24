@@ -27,7 +27,7 @@ I stepped in to translate tacit operational knowledge into structured technical 
 
 #### 1. The Immediate Trigger
 
-* Enviromnent upgrade to 64-bit architecture broke legacy Access VBA/macros.
+* Environmnent upgrade to 64-bit architecture broke legacy Access VBA/macros.
 * Strict IT machine permissions blocked local software reinstalls or direct user-level workarounds.
 * Operational tracking stopped for several days, creating severe backlog in case logging.
 
